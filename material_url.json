@@ -1,3 +1,9 @@
 {
-   "material": []
+   "material": [
+      {
+         "id": 1,
+         "material_id": "felt",
+         "url": ""
+      }
+   ]
 }
